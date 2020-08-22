@@ -1,3 +1,3 @@
 # hello-word
 Primeiro repositório
-Olá meu nomeéAlice
+Olá meu nome é Alice
